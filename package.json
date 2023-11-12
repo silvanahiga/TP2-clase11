@@ -8,6 +8,9 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
+  "engines": {
+    "node": ">=14"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
