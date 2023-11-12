@@ -1,0 +1,32 @@
+[
+	{
+		"nombre": "Memoria",
+		"precio": 258,
+		"stock": 1,
+		"id": "2"
+	},
+	{
+		"nombre": "teclado",
+		"precio": 155,
+		"stock": 14,
+		"id": "4"
+	},
+	{
+		"nombre": "teclado mecanico",
+		"precio": 1525,
+		"stock": 140,
+		"id": "5"
+	},
+	{
+		"nombre": "Silla",
+		"precio": 258,
+		"stock": 45,
+		"id": "6"
+	},
+	{
+		"nombre": "Cama",
+		"precio": 258,
+		"stock": 45,
+		"id": "7"
+	}
+]
